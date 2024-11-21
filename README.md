@@ -1,21 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ansul Luharuka</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansull&label=Profile%20views&color=0e75b6&style=flat" alt="ansull" /> </p>
+
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ansull&label=Profile%20views&color=0e75b6&style=flat" alt="ansull" /> 
+  <a href="https://twitter.com/ansul_18" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ansul_18?logo=twitter&style=for-the-badge" alt="ansul_18" />
+  </a>
 </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🖥️ Check out my projects:  
-  - [GeekyBytes](https://geekybytes.netlify.app/)  
-  - [Remote Link](https://remotelink-hzoc.onrender.com/)  
-  - [All Projects](https://ansulluharuka.vercel.app/)
+- 🛠️ Projects:
+  - **GeekyBytes** - [Visit Site](https://geekybytes.netlify.app/)
+  - **Remote Link** - [Visit Site](https://remotelink-hzoc.onrender.com/)
+
+
 
 - 🎯 Competitive Programming:  
   - [Codeforces Profile](https://codeforces.com/profile/ansul_18)  
   - [CodeChef Profile](https://www.codechef.com/users/ansul18)  
   - [LeetCode Profile](https://www.leetcode.com/ansull)
+
+- 🌐 Check out my portfolio: [ansulluharuka.vercel.app](https://ansulluharuka.vercel.app/)
 
 - 📫 Reach me at **ansulluharuka21@gmail.com**
 
