@@ -19,7 +19,7 @@
 
 - 🎯 Competitive Programming:  
   - [Codeforces Profile](https://codeforces.com/profile/ansul_18)  
-  - [CodeChef Profile](https://www.codechef.com/users/ansul18)  
+  - [CodeChef Profile](https://www.codechef.com/users/ansul_18)
   - [LeetCode Profile](https://www.leetcode.com/ansull)
 
 - 🌐 Check out my portfolio: [ansulluharuka.vercel.app](https://ansulluharuka.vercel.app/)
